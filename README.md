@@ -1,2 +1,4 @@
-# Github-Actions-Zero-to-Hero
-This repository is a hands-on guide for learning and teaching GitHub Actions, GitHub’s native CI/CD and automation platform.
+# 🚀 Github Actions - CI/CD Made Simple
+
+
+<img src="https://github.com/gauthamr58/Github-Actions-Zero-to-Hero/assets/blob/main/githubactions.webp" alt="Banner" />
